@@ -1,4 +1,4 @@
-# TruckLagbe Automation (Improved with POM)
+# TruckLagbe Automation with POM
 
 ## Requirements
 - Python 3.8+
